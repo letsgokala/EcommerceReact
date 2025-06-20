@@ -38,8 +38,10 @@
     gap: 15px;
     width: 310px;
     height: 70px;
-    background-color: #ff4141;
+    border-radius: 75px;
+    margin-top:30px;    background-color: #ff4141;
     color: white;
     font-size: 22px;
     font-weight: 500;
 }
+
