@@ -39,13 +39,13 @@ You need to have Node.js and npm installed on your machine.
 1.  Clone the repository to your local machine:
 
     ```sh
-    git clone [repository-url]
+    git clone https://github.com/letsgokala/EcommerceReact.git
     ```
 
 2.  Navigate to the project directory:
 
     ```sh
-    cd [project-folder-name]
+    cd frontend
     ```
 
 3.  Install the required npm packages:
@@ -85,7 +85,7 @@ The project follows a standard React directory structure to keep the code organi
 │   └── index.js            \# The entry point for the application
 └── package.json            \# Project dependencies and scripts
 
-```
+````
 
 ---
 
@@ -101,7 +101,4 @@ This project is a solid foundation, but there are many potential enhancements to
 
 ---
 
-### License
 
-This project is licensed under the MIT License.
-```
